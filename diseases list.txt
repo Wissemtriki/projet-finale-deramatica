@@ -1,0 +1,11 @@
+## Diseases listed in the model - 
+* Acne
+* Herpes Zoster
+* Corn
+* Rosacea
+* Psoriasis
+* Contact Dermatitis
+* Cutaneous Horn
+* Eczema
+* Melanoma
+* Urticaria
